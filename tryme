@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Script that runs financeDataEval service with example arguments!
+
+node ./services/financeDataEval.js ./test.txt jun-12
